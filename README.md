@@ -7,8 +7,8 @@ To use the code, first mkdir new filepaths './data' and './model', then prepare 
 Due to the limit of images and models, the model performance is limited.
 
 
-TODO:  
-0. Conduct Literature Review<br>
+TODO:  <br>
+0. Conduct Literature Review <br>
 1. Refer to  <br>
 Automated-Inference-on-Criminality-using-Face-Images  <br>
 A Replication Study: Machine Learning Models Are Capable of Predicting Sexual Orientation From Facial Images  <br>
