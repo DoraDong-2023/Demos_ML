@@ -8,10 +8,10 @@ Due to the limit of images and models, the model performance is limited.
 
 
 TODO:  
-0. Conduct Literature Review  
-1. Refer to  
-Automated-Inference-on-Criminality-using-Face-Images  
-A Replication Study: Machine Learning Models Are Capable of Predicting Sexual Orientation From Facial Images  
-for further analysis  
-2. Refer to Criminal-face-detection-using-CNN-model for better visualization.  
-3. Enhance the reliability of data.  
+0. Conduct Literature Review<br>
+1. Refer to  <br>
+Automated-Inference-on-Criminality-using-Face-Images  <br>
+A Replication Study: Machine Learning Models Are Capable of Predicting Sexual Orientation From Facial Images  <br>
+for further analysis  <br>
+2. Refer to Criminal-face-detection-using-CNN-model for better visualization.  <br>
+3. Enhance the reliability of data.  <br>
