@@ -5,4 +5,5 @@ The record of ML demos that have done.
 2. Logistic Regression on Credit fraud recoginition.
 3. Example of linear programming problem solver.
 4. ML classification prediction metrics
-5. 
+5. cv2 plot for differential equations
+6. 
