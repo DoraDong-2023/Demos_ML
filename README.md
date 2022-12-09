@@ -3,10 +3,8 @@
 The record of ML demos that have done.
 1. Image Classification task on criminal with non-criminal faces. (authored)
 2. Logistic Regression on Credit fraud recoginition. (authored)
-3. Example of linear programming problem solver. (authored)
-4. ML classification prediction metrics. (authored)
-5. cv2 plot for differential equations. (not authored)
-6. 
+3. ML classification prediction metrics. (authored)
+4. 
 
 
 
@@ -17,4 +15,7 @@ The record of ML demos that have done.
 3. scraw book info from web (not authored)
 4. ODE solver using scipy (not authored)
 5. Docker package and run (not authored)
-6. 
+6. Example of linear programming problem solver. (authored)
+7. cv2 plot for differential equations. (not authored)
+8. parameters auto-tuning based on optuna. (authored)
+9. 
