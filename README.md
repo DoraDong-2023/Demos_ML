@@ -17,5 +17,6 @@ The record of ML demos that have done.
 5. Docker package and run (not authored)
 6. Example of linear programming problem solver. (authored)
 7. cv2 plot for differential equations. (not authored)
-8. parameters auto-tuning based on optuna. (authored)
-9. 
+8. 
+9. parameters auto-tuning based on optuna. (authored)
+10. 
