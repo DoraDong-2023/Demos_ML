@@ -5,6 +5,9 @@ The record of ML demos that have done.
 2. Logistic Regression on Credit fraud recoginition. (authored)
 3. ML classification prediction metrics. (authored)
 4. 
+5. 
+6. 
+7. handmade Logistic Linear Regression. (authored)
 
 
 
