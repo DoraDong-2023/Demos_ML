@@ -4,8 +4,8 @@ The record of ML demos that have done.
 1. Image Classification task on criminal with non-criminal faces. (authored)
 2. Logistic Regression on Credit fraud recoginition. (authored)
 3. ML classification prediction metrics. (authored)
-4. 
-5. 
+4. handmade sklearn metrics. (authored)
+5. standard usage of multiple ML algorithms in sklearn. (authored)
 6. 
 7. handmade Logistic Linear Regression. (authored)
 
