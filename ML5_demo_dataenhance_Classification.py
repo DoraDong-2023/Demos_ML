@@ -2,14 +2,10 @@
 # coding: utf-8
 
 # # load data
-
-# In[ ]:
-
+# data enhancement
+# ML classification task
 
 get_ipython().system('pip install xgboost catboost lightgbm imbearn')
-
-
-# In[ ]:
 
 
 import pandas as pd
