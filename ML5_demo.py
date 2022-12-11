@@ -24,6 +24,10 @@ from xgboost import XGBClassifier
 from catboost import CatBoostClassifier
 from lightgbm import LGBMClassifier
 from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import GradientBoostingClassifier
+from sklearn.ensemble import HistGradientBoostingClassifier
+from sklearn.isotonic import IsotonicRegression
+
 
 from imblearn.over_sampling import RandomOverSampler  
 from imblearn.over_sampling import SMOTE  
@@ -143,7 +147,11 @@ model_list = [KNeighborsClassifier(n_neighbors=2),
              LGBMClassifier(),
              GaussianNB(),
               LabelPropagation(max_iter=100,kernel='rbf',gamma=0.1),
-              LabelSpreading(max_iter=100,kernel='rbf',gamma=0.1)
+              LabelSpreading(max_iter=100,kernel='rbf',gamma=0.1),
+              GradientBoostingClassifier,
+              HistGradientBoostingClassifier,
+              IsotonicRegression
+              
              ]
 for model in model_list:
     model.fit(X_train,y_train)
