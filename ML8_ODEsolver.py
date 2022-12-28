@@ -1,3 +1,9 @@
+# refer
+# 多元一阶
+# https://blog.csdn.net/weixin_41582053/article/details/110352227
+# 一元多阶
+# https://blog.csdn.net/MarkovDPs/article/details/120604356
+
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 #import tensorflow as tf
