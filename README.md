@@ -23,3 +23,6 @@ The record of ML demos that have done.
 8. 
 9. parameters auto-tuning based on optuna. (authored)
 10. 
+11. 
+12. demo of sympy
+13. 
